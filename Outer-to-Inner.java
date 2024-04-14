@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package Hw2_q2;
+package Outer-to-Inner;
 
 /**
  * This class implements a method to display elements of an integer array
@@ -11,7 +11,7 @@ package Hw2_q2;
  *
  * @author Abdulhakeem Al-Najadi
  */
-public class Hw2_q2 {
+public class  Outer-to-Inner {
 
     /**
      * The main method creates an integer array and calls the displayOutIn method to display its elements.
